@@ -4,8 +4,6 @@ export default StyleSheet.create({
   container: {
     flex: 1,
     padding: 10,
-    justifyContent: 'center',
-    alignItems: 'center'
   },
   button: {
     backgroundColor: 'rgb(33, 150, 243)',
